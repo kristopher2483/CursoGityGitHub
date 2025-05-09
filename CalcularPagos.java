@@ -31,7 +31,8 @@ public class CalcularPagos {
 		  
 		  System.out.println("Prueba cambio en git" )  ;
          
-System.out.println("revusar el git status git" )  ;
+System.out.println("revisar el git status git" )  ;
+System.out.println("Otro Parrafo" )  ;
 		
 	
         
