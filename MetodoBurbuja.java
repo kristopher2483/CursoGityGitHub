@@ -64,7 +64,7 @@ public class MetodoBurbuja {
         
         
         
-          System.out.print("  ");v
+          System.out.print(" Metodo burbuja es un metodo de ordenamiento ");
 
           System.out.println("Prueba cambio en git" )  ;        
         
